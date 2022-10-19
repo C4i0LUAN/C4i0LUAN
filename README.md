@@ -37,5 +37,8 @@
 
 <div align="center">
 
-   <img align="center" alt="oia" height="120" width="900" style="border-radius:100px;" src="https://user-images.githubusercontent.com/82907025/196750570-0c1658a9-c35f-4ae6-9a1c-c1075dc55dbc.gif"> 
+   <img align="right" alt="caio-pic" height="150" width="150" style="border-radius:100px;" src="https://user-images.githubusercontent.com/82907025/196751669-b3d34211-4755-41ff-8380-f561f73bcc8f.gif"> 
+   
+   
 </div>
+
