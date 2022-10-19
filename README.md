@@ -6,11 +6,11 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4i0LUAN&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="caio-pic" height="150" width="250" style="border-radius:100px;" src="https://user-images.githubusercontent.com/82907025/196737002-d4220ef4-a28d-4cff-8f32-e0fcca2ee84d.gif">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="caio-pic" height="150" width="300" style="border-radius:100px;" src="https://user-images.githubusercontent.com/82907025/196737002-d4220ef4-a28d-4cff-8f32-e0fcca2ee84d.gif">
  </div>
   
   ##
@@ -21,6 +21,7 @@
   <a href = "mailto:caio.luansilva12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-luan-950a3a248" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
+  ![ Animação de cobra ](https://github.com/C4i0LUAN/C4i0LUAN/blob/output/github-contribution-grid-snake.svg)
   
   </div>
    
