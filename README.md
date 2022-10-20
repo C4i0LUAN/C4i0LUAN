@@ -40,3 +40,5 @@
    
    </div>
    
+   ![snake gif](https://github.com/C4i0LUAN/C4i0LUAN/blob/output/github-contribution-grid-snake.svg)
+
