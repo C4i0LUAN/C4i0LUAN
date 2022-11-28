@@ -1,8 +1,8 @@
 <div>
    
  <h1 align="center">
-    OL4 tud0 b3m? Eu sou 
-    <a href="https://www.linkedin.com/in/c4io-luan-950a3a248/">C4i0 Luan 😃️</a>
+    OLÁ tudo bem? Eu sou 
+    <a href="https://www.linkedin.com/in/c4io-luan-950a3a248/">Caio Luan 😃️</a>
   </h1>
     
   <p align="center">
