@@ -36,7 +36,7 @@
 </div>
 
 <div align="right">
-  CliQue N4 IM4G3M! =============><a href="https://github.com/C4i0LUAN/C4i0LUAN/edit/main/Curr%C3%ADculo.pdf"><img src="https://user-images.githubusercontent.com/82907025/196751669-b3d34211-4755-41ff-8380-f561f73bcc8f.gif" class="media-object  img align="right" height="150" width="150" img-responsive img-thumbnail"></a>
+  CliQue N4 IM4G3M! =============><a href="https://github.com/C4i0LUAN/C4i0LUAN/edit/main/Currículo.pdf"><img src="https://user-images.githubusercontent.com/82907025/196751669-b3d34211-4755-41ff-8380-f561f73bcc8f.gif" class="media-object  img align="right" height="150" width="150" img-responsive img-thumbnail"></a>
    
    </div>
    
